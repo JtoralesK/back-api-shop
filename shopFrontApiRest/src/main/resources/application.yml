@@ -1,0 +1,62 @@
+server:
+  port: ${API_PORT:0}
+spring:
+  profiles:
+    active: ${DB_PROFILE}
+---
+spring:
+  config:
+    activate:
+      on-profile: dev
+  datasource:
+    password: ${DB_PASSWORD}
+    url: ${DB_URL}
+    username: ${DB_USER_NAME}
+  jpa:
+    hibernate:
+      ddl-auto: update
+      cache:
+        use_second_level_cache: false
+        use_query_cache: false
+    show-sql: true
+  application:
+    name: app-shop
+---
+spring:
+  config:
+    activate:
+      on-profile: test
+  datasource:
+  password: ${DB_PASSWORD}
+  url: ${DB_URL}
+  username: ${DB_USER_NAME}
+  jpa:
+    hibernate:
+      ddl-auto: update
+      cache:
+        use_second_level_cache: false
+        use_query_cache: false
+    show-sql: true
+  application:
+    name: app-shop
+---
+spring:
+  config:
+    activate:
+      on-profile: production
+  datasource:
+    password: ${DB_PASSWORD}
+    url: ${DB_URL}
+    username: ${DB_USER_NAME}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
+    hibernate:
+      ddl-auto: update
+      cache:
+        use_second_level_cache: false
+        use_query_cache: false
+    show-sql: true
+  application:
+    name: app-shop
+
