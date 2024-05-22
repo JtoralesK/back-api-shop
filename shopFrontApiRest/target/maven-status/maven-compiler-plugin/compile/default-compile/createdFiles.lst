@@ -49,7 +49,6 @@ com\apifrontGroup\shopFrontApiRest\controllers\InvoiceController.class
 com\apifrontGroup\shopFrontApiRest\controllers\ProductController.class
 com\apifrontGroup\shopFrontApiRest\controllers\models\request\InvoiceItem.class
 com\apifrontGroup\shopFrontApiRest\controllers\models\response\ErrorResponse$ErrorResponseBuilder.class
-com\apifrontGroup\shopFrontApiRest\controllers\models\PaymentMethodController.class
 com\apifrontGroup\shopFrontApiRest\service\UserService.class
 com\apifrontGroup\shopFrontApiRest\ShopFrontApiRestApplication.class
 com\apifrontGroup\shopFrontApiRest\service\ProductService.class

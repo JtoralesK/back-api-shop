@@ -25,6 +25,7 @@ C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRes
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\controllers\models\response\InvoiceResponse.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\controllers\models\request\InvoiceRequest.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\controllers\AuthController.java
+C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\controllers\PaymentMethodController.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\error\dto\ErrorMessage.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\controllers\models\response\UserResponse.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\entity\Product.java
@@ -36,7 +37,6 @@ C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRes
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\service\UserService.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\controllers\models\response\InvoiceItemResponse.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\service\ProductServiceImp.java
-C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\controllers\models\PaymentMethodController.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\controllers\models\request\AuthenticationRequest.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\service\ProductService.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\controllers\GenderController.java
