@@ -36,6 +36,7 @@ C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRes
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\service\UserService.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\controllers\models\response\InvoiceItemResponse.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\service\ProductServiceImp.java
+C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\controllers\models\PaymentMethodController.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\controllers\models\request\AuthenticationRequest.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\service\ProductService.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\controllers\GenderController.java
@@ -45,12 +46,14 @@ C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRes
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\controllers\models\TestController.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\repository\RoleRepository.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\entity\Invoice.java
+C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\service\PaymentMethodServiceImp.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\repository\InvoiceRepository.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\controllers\RoleController.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\entity\InvoiceXProductDetail.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\service\RoleService.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\repository\UserRepository.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\controllers\models\response\AuthResponse.java
+C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\service\PaymentMethodService.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\controllers\models\request\UserRequest.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\repository\GenderRepository.java
 C:\Users\Usuario1\Desktop\mis documentos\proyectos\shop-app-back\shopFrontApiRest\src\main\java\com\apifrontGroup\shopFrontApiRest\entity\Role.java

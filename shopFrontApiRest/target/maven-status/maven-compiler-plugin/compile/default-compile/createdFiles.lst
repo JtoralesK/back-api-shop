@@ -12,6 +12,7 @@ com\apifrontGroup\shopFrontApiRest\controllers\models\request\InvoiceRequest$Inv
 com\apifrontGroup\shopFrontApiRest\controllers\models\response\UserResponse$UserResponseBuilder.class
 com\apifrontGroup\shopFrontApiRest\service\UserServiceImp.class
 com\apifrontGroup\shopFrontApiRest\dto\ProductSoldDto.class
+com\apifrontGroup\shopFrontApiRest\service\PaymentMethodServiceImp.class
 com\apifrontGroup\shopFrontApiRest\service\RoleService.class
 com\apifrontGroup\shopFrontApiRest\entity\InvoiceXProductDetail$InvoiceXProductDetailBuilder.class
 com\apifrontGroup\shopFrontApiRest\controllers\models\response\UserResponse.class
@@ -33,6 +34,7 @@ com\apifrontGroup\shopFrontApiRest\dto\ProductSoldDto$ProductSoldDtoBuilder.clas
 com\apifrontGroup\shopFrontApiRest\controllers\GenderController.class
 com\apifrontGroup\shopFrontApiRest\repository\RoleRepository.class
 com\apifrontGroup\shopFrontApiRest\repository\UserRepository.class
+com\apifrontGroup\shopFrontApiRest\service\PaymentMethodService.class
 com\apifrontGroup\shopFrontApiRest\controllers\models\response\ProductResponse$ProductResponseBuilder.class
 com\apifrontGroup\shopFrontApiRest\controllers\ProductCategoryController.class
 com\apifrontGroup\shopFrontApiRest\entity\PaymentMethod.class
@@ -47,6 +49,7 @@ com\apifrontGroup\shopFrontApiRest\controllers\InvoiceController.class
 com\apifrontGroup\shopFrontApiRest\controllers\ProductController.class
 com\apifrontGroup\shopFrontApiRest\controllers\models\request\InvoiceItem.class
 com\apifrontGroup\shopFrontApiRest\controllers\models\response\ErrorResponse$ErrorResponseBuilder.class
+com\apifrontGroup\shopFrontApiRest\controllers\models\PaymentMethodController.class
 com\apifrontGroup\shopFrontApiRest\service\UserService.class
 com\apifrontGroup\shopFrontApiRest\ShopFrontApiRestApplication.class
 com\apifrontGroup\shopFrontApiRest\service\ProductService.class
